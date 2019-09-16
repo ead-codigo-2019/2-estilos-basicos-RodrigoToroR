@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Work Sans', sans-serif;
+    line-height:1.5 ;
+}
+
+h1,
+h2{
+    color: #A71930 ;
+}
+
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 30px;
+    background: white;
+}
+
+.borderojo{
+    margin: 0px;
+    font-size: 20px;
+    border-left: 5px solid #A71930;
+    padding: 7px;
+}
+
+.fotocentro{
+    margin-left: 25%;
+    width: 400px;
+}
+
+table{
+    margin: 0px;
+    width: 1000px;
+    line-height: 20px;
+    align-content: center; 
+}
+
+.fotoflotando{
+    width: 400px;
+    float: right;
+}
+
+td {
+    border-top: 1px solid #FCE7E4;
+    padding: 10px;
+}
+
+th{
+    text-align: left; 
+}
+
+.celeste{
+    color: #18B2F3;
+    font-weight: bold; 
+}
+
+li{
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.rojito{
+    font-family: 'Fira Mono', monospace;
+    color:#E844AC;
+    line-height: 1.5rem;
+}
+
+.borde{
+    border-top: .2px solid rgb(151, 151, 151);
+    padding: 5px;
+}
